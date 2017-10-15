@@ -1,0 +1,6 @@
+Code Review Doc
+
+
+#commit - 1
+1.Need to update the project structure. Place test scripts, browser drivers in different folders
+
